@@ -1,16 +1,23 @@
-## Hi there 👋
+# Nikola Dimovski
 
-<!--
-**nikoladimovski71-svg/nikoladimovski71-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and owner of **[Marvikit](https://marvikit.com)**, an independent software studio in Novi Sad, Serbia.
 
-Here are some ideas to get you started:
+I lead a small team that builds Marvikit's own products and delivers apps, websites and backends for clients. I manage the projects end to end (scoping, architecture, team and releases) and stay hands-on in the code: Flutter for mobile, the web, and the servers, CI and store releases behind them. My background is in DevOps and infrastructure, so what we ship keeps running after launch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is | Status |
+|---|---|---|
+| [SwapGenie](https://swapgenie.app) | Grocery barcode scanner that checks products against your allergens and diet | Live on [Google Play](https://play.google.com/store/apps/details?id=com.swapgenie.app). iOS on Feb 15, 2027 |
+| [Big Bands](https://bigbands.app) | Free block merge puzzle game | Android on Dec 15, 2026. iOS on Feb 15, 2027 |
+| [ExactCups](https://exactcups.com) | Cup-to-gram converter where every figure names its source | Live on the web |
+
+All projects are published by Marvikit. The code lives in the [dimovski-studio](https://github.com/dimovski-studio) organization.
+
+## Work with us
+
+Flutter apps for Android and iOS, websites built for search and AI answers, the backend and hosting behind them, and technical leadership for projects that need one person to own delivery.
+
+- Studio: [marvikit.com](https://marvikit.com)
+- Email: hello@marvikit.com
+- WhatsApp: [+381 66 513592](https://wa.me/38166513592)
