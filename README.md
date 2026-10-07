@@ -1,8 +1,8 @@
 # Nikola Dimovski
 
-Founder and owner of **[Marvikit](https://marvikit.com)**, an independent software studio in Novi Sad, Serbia.
+Founder and owner of **[MarVikIT](https://marvikit.com)**, an independent software studio in Novi Sad, Serbia.
 
-I lead a small team that builds Marvikit's own products and delivers apps, websites and backends for clients. I manage the projects end to end (scoping, architecture, team and releases) and stay hands-on in the code: Flutter for mobile, the web, and the servers, CI and store releases behind them. My background is in DevOps and infrastructure, so what we ship keeps running after launch.
+I lead a small team that builds MarVikIT's own products and delivers apps, websites and backends for clients. I manage the projects end to end (scoping, architecture, team and releases) and stay hands-on in the code: Flutter for mobile, the web, and the servers, CI and store releases behind them. My background is in DevOps and infrastructure, so what we ship keeps running after launch.
 
 ## Projects
 
@@ -12,7 +12,7 @@ I lead a small team that builds Marvikit's own products and delivers apps, websi
 | [Big Bands](https://bigbands.app) | Free block merge puzzle game | Android on Dec 15, 2026. iOS on Feb 15, 2027 |
 | [ExactCups](https://exactcups.com) | Cup-to-gram converter where every figure names its source | Live on the web |
 
-All projects are published by Marvikit. The code lives in the [dimovski-studio](https://github.com/dimovski-studio) organization.
+All projects are published by MarVikIT. The code lives in the [dimovski-studio](https://github.com/dimovski-studio) organization.
 
 ## Work with us
 
@@ -20,4 +20,5 @@ Flutter apps for Android and iOS, websites built for search and AI answers, the 
 
 - Studio: [marvikit.com](https://marvikit.com)
 - Email: hello@marvikit.com
-- WhatsApp: [+381 66 513592](https://wa.me/38166513592)
+- WhatsApp: [+381 66 5131592](https://wa.me/381665131592)
+- Address: Jevrejska, 21000 Novi Sad, Serbia
